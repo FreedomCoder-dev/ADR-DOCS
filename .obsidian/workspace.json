@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADR-5.md",
+                "file": "ADR-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADR-5.md",
+                "file": "ADR-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADR-5.md",
+                "file": "ADR-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADR-5.md"
+                "file": "ADR-4.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "e2d1b84b85dff96f",
   "lastOpenFiles": [
-    "ADR-2.md",
     "ADR-5.md",
+    "ADR-2.md",
     "ADR-1.md",
     "Pa.md",
     "ADR-3.md",
